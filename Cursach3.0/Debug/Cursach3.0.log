@@ -1,0 +1,7 @@
+﻿  Calc.cpp
+C:\Users\User\OneDrive\Визуал\Cursach3.0\Cursach3.0\Calc.cpp(52): warning C4715: which_func: значение возвращается не при всех путях выполнения
+C:\Users\User\OneDrive\Визуал\Cursach3.0\Cursach3.0\Calc.cpp(75): warning C4715: func: значение возвращается не при всех путях выполнения
+C:\Users\User\OneDrive\Визуал\Cursach3.0\Cursach3.0\Calc.cpp(92): warning C4715: sign: значение возвращается не при всех путях выполнения
+C:\Users\User\OneDrive\Визуал\Cursach3.0\Cursach3.0\Calc.cpp(262): warning C4715: Calc: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1168: не удается открыть C:\Users\User\OneDrive\Визуал\Cursach3.0\Debug\Cursach3.0.exe для записи
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(876,5): error MSB6006: "link.exe" завершилась с кодом 1168.
